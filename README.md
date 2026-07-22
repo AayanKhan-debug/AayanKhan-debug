@@ -1,21 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Aayan%20Khan&fontSize=50&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=170&section=header&text=Aayan%20Khan&fontSize=42&fontColor=00FF41&animation=blink&desc=%3E%20Full%20Stack%20Developer_&descAlignY=65&descSize=16&descColor=00FF41" width="100%"/>
 
-<a href="https://github.com/AayanKhan-debug">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+Python;React+%7C+Node.js+%7C+Express;MERN+Stack+Enthusiast" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%24+whoami;full-stack-developer;%24+cat+skills.txt;java+%7C+cpp+%7C+python+%7C+react;%24+status+--check;open_to_work%3A+true" alt="Terminal Typing" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AayanKhan-debug&color=7dd3fc&style=flat-square)
-![Followers](https://img.shields.io/github/followers/AayanKhan-debug?label=Followers&style=flat-square&color=7dd3fc)
+```bash
+$ open-to-work --status
+🟢 true
+```
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AayanKhan-debug&color=00FF41&style=flat-square&label=visitors" />
+<img src="https://img.shields.io/github/followers/AayanKhan-debug?label=followers&style=flat-square&color=00FF41&labelColor=000000" />
 
 </div>
 
 ---
 
-### 🙋 Who I Am
+### `$ cat about.ts`
 
 ```typescript
 const aayanKhan = {
@@ -26,72 +31,67 @@ const aayanKhan = {
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB"],
   },
-  launchedProjects: [], // 🚧 building my first ones — stay tuned
-  certifications: [],   // 📜 coming soon
-  status: "🟢 Open to Work",
-  openTo: ["Full-Time Roles", "Internships", "Collaborations"],
+  launchedProjects: [],  // building...
+  certifications: [],    // pending...
+  status: "open_to_work",
+  openTo: ["full-time", "internships", "collaborations"],
 };
+
+export default aayanKhan;
 ```
 
----
+### `$ ls stack/`
 
-### 🛠️ Tech Stack
+**languages/**
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=dark" />
 
-**Languages**
+**frontend/**
+<img src="https://skillicons.dev/icons?i=javascript,html,css,react&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql" alt="Languages" />
+**backend/**
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-**Frontend**
+**database/**
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react" alt="Frontend" />
-
-**Backend / Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
-
----
-
-### 📊 GitHub Stats
+### `$ ./run-stats.sh`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=dracula&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=dracula&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=000000" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=AayanKhan-debug&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=AayanKhan-debug&theme=dark&background=000000&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
 
 </div>
 
-### 🏆 Trophies
+### `$ ./trophies.sh --no-frame --no-bg`
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AayanKhan-debug&no-frame=true&no-bg=true&theme=nord&column=7" alt="Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=AayanKhan-debug&no-frame=true&no-bg=true&theme=dracula&column=7" />
 </div>
 
-### 📈 Contribution Activity
+### `$ tail -f activity.log`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayanKhan-debug&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayanKhan-debug&theme=dracula&hide_border=true&color=00FF41&line=00FF41&point=ffffff&bg_color=000000" width="100%"/>
 </div>
 
 ---
 
-### 🔗 Connect With Me
+### `$ cat contact.txt`
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamkhanaayan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayankhan18/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan01aayan@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/iamkhanaayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aayankhan18/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:khan01aayan@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+```bash
+$ exit
+process finished with exit code 0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" width="100%"/>
