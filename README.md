@@ -32,9 +32,56 @@
 ## Current Focus
 
 - 🚀 Building backend applications with Spring Boot and Spring Security.
-- 🧩 Practicing Data Structures & Algorithms with C++ and Java.
+- 🧩 Practicing Data Structures & Algorithms with C++.
 - 📐 Learning system design and backend architecture fundamentals.
 - 🎯 Preparing for software engineering placement opportunities.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayanKhan-debug&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
@@ -96,60 +143,13 @@ Full-stack financial management application for tracking transactions, budgets, 
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
-</p>
-
----
-
 ## Data Structures & Algorithms
 
 I practice problem solving primarily in **C++** and **Java**, working through curated DSA sheets and LeetCode problems.
 
 - **LeetCode:** [@khancancode](https://leetcode.com/u/khancancode/)
-- **Core Topics:** Arrays, Strings, Hashing, Linked Lists, Stacks & Queues, Binary Trees, Binary Search Trees, Heaps, Graphs, Dynamic Programming
-- **Curriculum:** Striver's A2Z DSA Sheet and LeetCode problem sets
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayanKhan-debug&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+- **Core Topics:** Arrays, Strings, Hashing, Linked Lists, Stacks & Queues, Binary Trees, Binary Search Trees, Heaps, Graphs, Dynamic Programming.
+- **Curriculum:** Striver's A2Z DSA Sheet and LeetCode problem sets.
 
 ---
 
