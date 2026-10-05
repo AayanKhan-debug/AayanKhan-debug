@@ -98,20 +98,35 @@ Full-stack financial management application for tracking transactions, budgets, 
 
 ## Tech Stack
 
-**Languages:**  
-Java • C++ • C • Python • JavaScript • TypeScript
+### Languages
 
-**Backend:**  
-Spring Boot • Spring Security • Spring Data JPA • REST APIs • Node.js • Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
+</p>
 
-**Frontend:**  
-React • Tailwind CSS • Vite • HTML • CSS
+### Backend
 
-**Databases:**  
-MySQL • PostgreSQL • MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-**Tools:**  
-Git • GitHub • Docker • Maven • Postman
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman" />
+</p>
 
 ---
 
@@ -125,9 +140,22 @@ I practice problem solving primarily in **C++** and **Java**, working through cu
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayanKhan-debug&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
 ## Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aayankhan18/">LinkedIn</a> •
   <a href="https://github.com/AayanKhan-debug">GitHub</a> •
   <a href="https://leetcode.com/u/khancancode/">LeetCode</a> •
