@@ -1,97 +1,135 @@
-<div align="center">
+# Aayan Khan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=170&section=header&text=Aayan%20Khan&fontSize=42&fontColor=00FF41&animation=blink&desc=%3E%20Full%20Stack%20Developer_&descAlignY=65&descSize=16&descColor=00FF41" width="100%"/>
+**Information Science & Engineering Student • Backend & Full-Stack Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%24+whoami;full-stack-developer;%24+cat+skills.txt;java+%7C+cpp+%7C+python+%7C+react;%24+status+--check;open_to_work%3A+true" alt="Terminal Typing" />
+*Nitte Meenakshi Institute of Technology (NMIT), Bangalore*
 
-</div>
-
-```bash
-$ open-to-work --status
-🟢 true
-```
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AayanKhan-debug&color=00FF41&style=flat-square&label=visitors" />
-<img src="https://img.shields.io/github/followers/AayanKhan-debug?label=followers&style=flat-square&color=00FF41&labelColor=000000" />
-
-</div>
-
----
-
-### `$ cat about.ts`
-
-```typescript
-const aayanKhan = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["Java", "C++", "Python", "SQL"],
-    frontend: ["JavaScript", "HTML", "CSS", "React"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-  },
-  launchedProjects: [],  // building...
-  certifications: [],    // pending...
-  status: "open_to_work",
-  openTo: ["full-time", "internships", "collaborations"],
-};
-
-export default aayanKhan;
-```
-
-### `$ ls stack/`
-
-**languages/**
-<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql&theme=dark" />
-
-**frontend/**
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react&theme=dark" />
-
-**backend/**
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-**database/**
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-
-### `$ ./run-stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AayanKhan-debug&show_icons=true&theme=dracula&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanKhan-debug&layout=compact&theme=dracula&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=000000" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=AayanKhan-debug&theme=dark&background=000000&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" />
-
-</div>
-
-### `$ ./trophies.sh --no-frame --no-bg`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AayanKhan-debug&no-frame=true&no-bg=true&theme=dracula&column=7" />
-</div>
-
-### `$ tail -f activity.log`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayanKhan-debug&theme=dracula&hide_border=true&color=00FF41&line=00FF41&point=ffffff&bg_color=000000" width="100%"/>
-</div>
+<p align="left">
+  <a href="https://github.com/AayanKhan-debug">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aayankhan18/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/khancancode/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:khan01aayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### `$ cat contact.txt`
+## About Me
 
-<div align="center">
+- 🎓 Information Science & Engineering student at NMIT, Bangalore.
+- ⚙️ Focused on Java, Spring Boot, backend development, REST APIs, databases, and application security.
+- 🧠 Currently strengthening Data Structures & Algorithms, system design fundamentals, and software engineering skills.
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=00FF41)](https://x.com/iamkhanaayan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aayankhan18/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:khan01aayan@gmail.com)
+---
 
-</div>
+## Current Focus
 
-```bash
-$ exit
-process finished with exit code 0
-```
+- 🚀 Building backend applications with Spring Boot and Spring Security.
+- 🧩 Practicing Data Structures & Algorithms with C++ and Java.
+- 📐 Learning system design and backend architecture fundamentals.
+- 🎯 Preparing for software engineering placement opportunities.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" width="100%"/>
+---
+
+## Featured Projects
+
+### 1. [CampusOS — Campus Activity & Event Reservation Platform](https://github.com/AayanKhan-debug/CampusOS)
+
+Full-stack campus platform for club workflows, events, registrations, and capacity management.
+
+**Tech Stack:** Java 21 • Spring Boot 3 • Spring Security • Spring Data JPA • MySQL • React • Vite • Tailwind CSS • JUnit 5 • Mockito
+
+**Key Engineering Work:**
+- Implemented JWT authentication and role-based authorization using Spring Security.
+- Used `PESSIMISTIC_WRITE` database locking to prevent event overbooking during concurrent registrations.
+- Implemented event cancellation, capacity limits, and automatic waitlist promotion with DTO-based APIs and global exception handling.
+- Verified with **113+ backend tests**.
+
+---
+
+### 2. [NMIT Confessions — Anonymous Moderated Confession Platform](https://github.com/AayanKhan-debug/nmit-confession)
+
+Anonymous campus publishing platform with moderation, reactions, reporting, search, archives, and trending.
+
+**Tech Stack:** Java 21 • Spring Boot 3.3.4 • Spring Security • Spring Data JPA • PostgreSQL • React • TypeScript • Vite • Docker
+
+**Key Engineering Work:**
+- Designed rate limiting and reaction/report deduplication using one-way hashed device tokens without storing author identity or raw IP addresses.
+- Implemented moderation states, reactions, reporting, search, archives, and trending posts.
+- Added CSRF protection and HTTP-only session cookies using Spring Security.
+- Verified with **110 automated tests**.
+
+---
+
+### 3. [Dandiya Partner Invitation — Interactive Full-Stack Application](https://github.com/AayanKhan-debug/dandiya-invitation)
+
+Interactive full-stack invitation website built with React, Node.js, Express, and MongoDB.
+
+**Tech Stack:** React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB
+
+**Key Engineering Work:**
+- Built an interactive, mobile-responsive UI using React, Vite, and Tailwind CSS.
+- Implemented an Express.js REST API with MongoDB for persistent response logging.
+- Added responsive animations and reduced-motion accessibility support.
+
+**[Live Demo](https://dandiya-invitation.vercel.app/)**
+
+---
+
+### 4. [AI Expense Analyzer — Financial Tracking & Budgeting App](https://github.com/AayanKhan-debug/expense-analyzer-ai)
+
+Full-stack financial management application for tracking transactions, budgets, and categorized spending.
+
+**Tech Stack:** Node.js • Express.js • MongoDB • React • Vite • Tailwind CSS • JWT
+
+**Key Engineering Work:**
+- Implemented user registration, login, and protected routes using JWT authentication.
+- Built CRUD APIs for expenses and monthly category budgets using MongoDB.
+- Added receipt text parsing to extract merchant, date, and amount information from raw text.
+
+---
+
+## Tech Stack
+
+**Languages:**  
+Java • C++ • C • Python • JavaScript • TypeScript
+
+**Backend:**  
+Spring Boot • Spring Security • Spring Data JPA • REST APIs • Node.js • Express.js
+
+**Frontend:**  
+React • Tailwind CSS • Vite • HTML • CSS
+
+**Databases:**  
+MySQL • PostgreSQL • MongoDB
+
+**Tools:**  
+Git • GitHub • Docker • Maven • Postman
+
+---
+
+## Data Structures & Algorithms
+
+I practice problem solving primarily in **C++** and **Java**, working through curated DSA sheets and LeetCode problems.
+
+- **LeetCode:** [@khancancode](https://leetcode.com/u/khancancode/)
+- **Core Topics:** Arrays, Strings, Hashing, Linked Lists, Stacks & Queues, Binary Trees, Binary Search Trees, Heaps, Graphs, Dynamic Programming
+- **Curriculum:** Striver's A2Z DSA Sheet and LeetCode problem sets
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aayankhan18/">LinkedIn</a> •
+  <a href="https://github.com/AayanKhan-debug">GitHub</a> •
+  <a href="https://leetcode.com/u/khancancode/">LeetCode</a> •
+  <a href="mailto:khan01aayan@gmail.com">Email</a>
+</p>
